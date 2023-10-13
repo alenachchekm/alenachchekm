@@ -1,4 +1,4 @@
-[![Header](https://github.com/alenachchekm/alenachchekm/blob/main/assets/74.png)]
+![Header](https://github.com/alenachchekm/alenachchekm/blob/main/assets/74.png)
 
 About me
 
