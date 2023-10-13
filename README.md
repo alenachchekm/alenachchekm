@@ -1,6 +1,6 @@
 ![Header](https://github.com/alenachchekm/alenachchekm/blob/main/assets/74.png)
 
-About me
+## I'm beginner QA-engineer, I'm looking for my first job
 
 My resume
 
