@@ -9,3 +9,5 @@ Bag-reports
 Test-cases
 
 X maind cards
+
+![Flutter](https://img.shields.io/badge/-Виды_тестирования-090909?style=for-the-badge&logo=appveyor&logoColor=F88C00)
