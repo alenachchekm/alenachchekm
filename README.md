@@ -10,10 +10,11 @@
 Сейчас вот я решила получше узнать ГИТ и для этого я создаю для себя портфолио на ГИТ ХАБЕ. И это довольно увлекательное занятие )))
 
 
-- Как со мной связаться: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logoColor=F88C00)](mailto:alenach2006@yandex.ru)
+- Как со мной связаться: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Flutter&logoColor=47C5FB)](mailto:alenach2006@yandex.ru)
 
 
-- Мое резюме: [![Flutter](https://img.shields.io/badge/-Резюме-red?style=for-the-badge&logo=appveyor&logoColor=F88C00)](http://test.uk-site.ru/wp-content/uploads/sites/78/2023/10/125.pdf)
+- Мое резюме: [![Flutter](https://img.shields.io/badge/-Резюме-red?style=for-the-badge&logo=appveyor&logoColor=F88C00)](https://drive.google.com/file/d/1mWwpQwOBGWvE9gJzLqlSGbaT6Tfcl-ea/view?usp=sharing)
+
 
 
 ---
@@ -29,9 +30,9 @@
 
 ### Language and Tools
 
-![Flutter](https://img.shields.io/badge/-Чек_листы-090909?style=for-the-badge&logo=appveyor&logoColor=F88C00)
-![Flutter](https://img.shields.io/badge/-Тест_кейсы-090909?style=for-the-badge&logo=appveyor&logoColor=F88C00)
-![Flutter](https://img.shields.io/badge/-Баг_репорты-090909?style=for-the-badge&logo=appveyor&logoColor=F88C00)
+![Flutter](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=appveyor&logoColor=F88C00)
+![Flutter](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=appveyor&logoColor=F88C00)
+![Flutter](https://img.shields.io/badge/-Mysql-090909?style=for-the-badge&logo=appveyor&logoColor=F88C00)
 
 ---
 ### 📁 Тестовая документация:
