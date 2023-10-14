@@ -27,19 +27,26 @@
 
   ---
 
+### Language and Tools
+
+![Flutter](https://img.shields.io/badge/-Чек_листы-090909?style=for-the-badge&logo=appveyor&logoColor=F88C00)
+![Flutter](https://img.shields.io/badge/-Тест_кейсы-090909?style=for-the-badge&logo=appveyor&logoColor=F88C00)
+![Flutter](https://img.shields.io/badge/-Баг_репорты-090909?style=for-the-badge&logo=appveyor&logoColor=F88C00)
+
+---
 ### 📁 Тестовая документация:
-
-  [![Flutter](https://img.shields.io/badge/-Чек_листы-090909?style=for-the-badge&logo=appveyor&logoColor=F88C00)](https://github.com/alenachchekm/alenachchekm/blob/main/assets/ClassificTest.xmind)
-  [![Flutter](https://img.shields.io/badge/-Тест_кейсы-090909?style=for-the-badge&logo=appveyor&logoColor=F88C00)](http://test.uk-site.ru/wp-content/uploads/sites/78/2023/10/Классификация-тестирования.pdf)
-   [![Flutter](https://img.shields.io/badge/-Баг_репорты-090909?style=for-the-badge&logo=appveyor&logoColor=F88C00)](http://test.uk-site.ru/wp-content/uploads/sites/78/2023/10/Классификация-тестирования.pdf)
-
+- Чек - листы
+- Тест - кейсы
+- Баг - репорты
+- Тест - план
+- Отчет по тестированию
+ 
 ---
 
 ### 🛠 Тестирование веб-приложений:
 
 <div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
+   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
  
 </div>
 
