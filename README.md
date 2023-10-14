@@ -10,10 +10,10 @@
 Сейчас вот я решила получше узнать ГИТ и для этого я создаю для себя портфолио на ГИТ ХАБЕ. И это довольно увлекательное занятие )))
 
 
-- Как со мной связаться: [![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alenach2006@yandex.ru)
+- Как со мной связаться: [![Mail Badge](https://img.shields.io/badge/-E'mail-red?style=for-the-badge&logo=appveyor&logoColor=F88C00)](mailto:alenach2006@yandex.ru)
 
 
-- Мое резюме: 
+- Мое резюме: [![Flutter](https://img.shields.io/badge/-Резюме-red?style=for-the-badge&logo=appveyor&logoColor=F88C00)](http://test.uk-site.ru/wp-content/uploads/sites/78/2023/10/125.pdf)
 
 
 ---
