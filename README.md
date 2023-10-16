@@ -63,12 +63,5 @@
 ---
 
 ### X maind cards
+[Репозиторий](https://github.com/alenachchekm/MaindCard)
 
-[![Flutter](https://img.shields.io/badge/-Виды_тестирования-090909?style=for-the-badge&logo=appveyor&logoColor=F88C00)](https://github.com/alenachchekm/alenachchekm/blob/main/assets/ClassificTest.xmind)
-[![Flutter](https://img.shields.io/badge/-Жизненный_цикл_ПО-090909?style=for-the-badge&logo=appveyor&logoColor=F88C00)](http://test.uk-site.ru/wp-content/uploads/sites/78/2023/10/Классификация-тестирования.pdf)
-[![Flutter](https://img.shields.io/badge/-Жизненный_цикл_ПО-090909?style=for-the-badge&logo=appveyor&logoColor=F88C00)](http://test.uk-site.ru/wp-content/uploads/sites/78/2023/10/V-образная модель разработки ПО.pdf)
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alenachchekm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
