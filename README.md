@@ -34,10 +34,11 @@
 ![Flutter](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=F88C00)
 ![Flutter](https://img.shields.io/badge/-Mysql-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)
 ![Flutter](https://img.shields.io/badge/-VS_Code-090909?style=for-the-badge&logo=&logoColor=0098FF)
-
+![Flutter](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=red)
+![Flutter](https://img.shields.io/badge/-XMind-090909?style=for-the-badge&logo=&logoColor=orange)
 ---
 ### 📁 Тестовая документация:
-- Чек - листы
+- [Чек - листы](https://github.com/alenachchekm/Chec_Lists/blob/main/)
 - Тест - кейсы
 - Баг - репорты
 - Тест - план
@@ -62,6 +63,6 @@
 
 ---
 
-### X maind cards
+### XMind cards
 [Репозиторий](https://github.com/alenachchekm/MaindCard/blob/main)
 
