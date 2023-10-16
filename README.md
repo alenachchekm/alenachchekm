@@ -63,5 +63,5 @@
 ---
 
 ### X maind cards
-[Репозиторий](https://github.com/alenachchekm/MaindCard)
+[Репозиторий](https://github.com/alenachchekm/MaindCard/blob/main)
 
