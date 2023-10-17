@@ -49,6 +49,7 @@
 ### 🛠 Тестирование веб-приложений:
 
 <div>
+  <a href='https://www.postman.com/galactic-shadow-937135/workspace/pablicworkspase/overview' target='_blank'>
    <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
  
 </div>
@@ -57,7 +58,8 @@
 ### 💾 Работа с данными:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
   
 </div>
 
