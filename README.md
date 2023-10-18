@@ -26,7 +26,8 @@
     </a>
   </div>
 
-  ---
+
+ --- 
 
 ### Language and Tools
 
@@ -49,7 +50,7 @@
 ### 🛠 Тестирование веб-приложений:
 
 <div>
-  <a href='https://www.postman.com/galactic-shadow-937135/workspace/pablicworkspase/overview' target='_blank'>
+  <a href='https://www.postman.com/galactic-shadow-937135' target='_blank'>
    <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
  
 </div>
