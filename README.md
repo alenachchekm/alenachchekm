@@ -34,7 +34,7 @@ https://drive.google.com/file/d/1ccytFJDZIsOpJZLCsbSROl7leFxiU01u/view?usp=share
 
 [![Flutter](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=47C5FB)](https://drive.google.com/file/d/1dgwu_VSRBZTGsB-XXDwyn9WhsztErnuV/view?usp=sharing)
 [![Flutter](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=F88C00)](https://www.postman.com/galactic-shadow-937135)
-[![Flutter](https://img.shields.io/badge/-Mysql-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)](https://drive.google.com/file/d/1dgwu_VSRBZTGsB-XXDwyn9WhsztErnuV/view?usp=sharing)
+[![Flutter](https://img.shields.io/badge/-Mysql-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)](https://github.com/alenachchekm/MySQL)
 [![Flutter](https://img.shields.io/badge/-VS_Code-090909?style=for-the-badge&logo=&logoColor=0098FF)](https://drive.google.com/file/d/1dgwu_VSRBZTGsB-XXDwyn9WhsztErnuV/view?usp=sharing)
 [![Flutter](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=red)](https://github.com/alenachchekm/)
 [![Flutter](https://img.shields.io/badge/-XMind-090909?style=for-the-badge&logo=&logoColor=orange)](https://github.com/alenachchekm/MaindCard/blob/main)
@@ -61,7 +61,7 @@ https://drive.google.com/file/d/1ccytFJDZIsOpJZLCsbSROl7leFxiU01u/view?usp=share
 ### 💾 Работа с данными:
 
 <div>
-  
+  <a href='https://github.com/alenachchekm/MySQL' target='_blank'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
   
 </div>
