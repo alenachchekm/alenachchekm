@@ -38,6 +38,7 @@ https://drive.google.com/file/d/1ccytFJDZIsOpJZLCsbSROl7leFxiU01u/view?usp=share
 ![Flutter](https://img.shields.io/badge/-VS_Code-090909?style=for-the-badge&logo=&logoColor=0098FF)
 ![Flutter](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=red)
 ![Flutter](https://img.shields.io/badge/-XMind-090909?style=for-the-badge&logo=&logoColor=orange)
+[![Flutter](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=&logoColor=orange)](https://drive.google.com/file/d/16KjGO4nlz_11i1OaNFu_VADvs-bwd7gn/view?usp=sharing)
 ---
 ### 📁 Тестовая документация:
 - [Чек - листы](https://github.com/alenachchekm/Chec_Lists/blob/main/)
