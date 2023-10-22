@@ -46,6 +46,7 @@ https://drive.google.com/file/d/1ccytFJDZIsOpJZLCsbSROl7leFxiU01u/view?usp=share
 - [Баг - репорты](https://drive.google.com/file/d/1k7wbFem5cEo9gJL01iNREw28n1h-lZvs/view?usp=sharing)
 - Тест - план
 - Отчет по тестированию
+- [Моя итоговая презентация на курсах тестировщика](https://docs.google.com/presentation/d/19CZbNsMiLBk37-NH6PrfH_qKOdsEeJf1/edit?usp=sharing&ouid=108350876976668273800&rtpof=true&sd=true)
  
 ---
 
