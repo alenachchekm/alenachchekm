@@ -32,12 +32,12 @@ https://drive.google.com/file/d/1ccytFJDZIsOpJZLCsbSROl7leFxiU01u/view?usp=share
 
 ### Language and Tools
 
-![Flutter](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=47C5FB)
+[![Flutter](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=47C5FB)](https://drive.google.com/file/d/1dgwu_VSRBZTGsB-XXDwyn9WhsztErnuV/view?usp=sharing)
 [![Flutter](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=F88C00)](https://www.postman.com/galactic-shadow-937135)
-![Flutter](https://img.shields.io/badge/-Mysql-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)
+[![Flutter](https://img.shields.io/badge/-Mysql-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)](https://drive.google.com/file/d/1dgwu_VSRBZTGsB-XXDwyn9WhsztErnuV/view?usp=sharing)
 ![Flutter](https://img.shields.io/badge/-VS_Code-090909?style=for-the-badge&logo=&logoColor=0098FF)
-![Flutter](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=red)
-![Flutter](https://img.shields.io/badge/-XMind-090909?style=for-the-badge&logo=&logoColor=orange)
+[![Flutter](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=red)](https://github.com/alenachchekm/)
+[![Flutter](https://img.shields.io/badge/-XMind-090909?style=for-the-badge&logo=&logoColor=orange)]((https://github.com/alenachchekm/MaindCard/blob/main))
 [![Flutter](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=&logoColor=orange)](https://drive.google.com/file/d/16KjGO4nlz_11i1OaNFu_VADvs-bwd7gn/view?usp=sharing)
 ---
 ### 📁 Тестовая документация:
