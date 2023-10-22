@@ -42,7 +42,7 @@ https://drive.google.com/file/d/1ccytFJDZIsOpJZLCsbSROl7leFxiU01u/view?usp=share
 ---
 ### 📁 Тестовая документация:
 - [Чек - листы](https://github.com/alenachchekm/Chec_Lists/blob/main/)
-- Тест - кейсы
+- [Тест - кейсы](https://drive.google.com/file/d/1s9zp3DxRfQvWw1Jk39zzq9gye_ZpkysB/view?usp=sharing)
 - Баг - репорты
 - Тест - план
 - Отчет по тестированию
