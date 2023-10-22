@@ -13,7 +13,8 @@
 - Как со мной связаться: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Flutter&logoColor=47C5FB)](mailto:alenach2006@yandex.ru)
 
 
-- Мое резюме: [![Flutter](https://img.shields.io/badge/-Резюме-red?style=for-the-badge&logo=appveyor&logoColor=F88C00)](https://drive.google.com/file/d/1ufafpkg75NzBZPUDswAORdI95gafF0CS/view?usp=sharing)
+- Мое резюме: [![Flutter](https://img.shields.io/badge/-Резюме-red?style=for-the-badge&logo=appveyor&logoColor=F88C00)](
+https://drive.google.com/file/d/1ccytFJDZIsOpJZLCsbSROl7leFxiU01u/view?usp=share_link)
 
 
 
